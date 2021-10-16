@@ -1,3 +1,9 @@
+# This is under the mentorship of Clever Programmer Youtube
+Video:
+https://www.youtube.com/watch?v=BtJeH_-XYaA&t=439s
+
+Timestamp:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
